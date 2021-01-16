@@ -54,7 +54,12 @@ p{
 }
 
 .bottom-cloud {
-  position: absolute;
+  position: relative;
+  top: 300px;
+}
+.bottom-mountain{
+  position: relative;
+  bottom: 300px;
 }
 
 .contact-message{
