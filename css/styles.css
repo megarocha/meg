@@ -60,6 +60,7 @@ p{
 .bottom-mountain{
   position: relative;
   bottom: 300px;
+  padding-top: 500px;
 }
 
 .contact-message{
