@@ -40,7 +40,7 @@ p{
 }
 
 .middle-container {
-  padding-top: : 100px;
+  padding-top: 100px;
 }
 
 .bottom-container {
@@ -53,7 +53,6 @@ p{
   margin: auto;
 }
 
-}
 .bottom-cloud {
   top:250px;
 }
@@ -63,9 +62,10 @@ p{
 }
 
 .contact-message{
-  width: 40%
+  width: 40%;
   margin: 40px auto 60px;
 }
+
 a{
   color: #11999e;
   font-family: 'Quicksand', sans-serif;
@@ -124,7 +124,7 @@ div {
 .top-margin-projects{
   position: relative;
   padding-top: 10px;
-   padding-bottom:10px;
+  padding-bottom:10px;
 }
 .projects-paragraph{
   padding-top: 100px;
